@@ -1,4 +1,6 @@
-;root {
+@import url ("./styles/header.css");
+
+:root {
     --preto: #000000;
     --font-size: 'Poppin', 'sans serif';
     --branco: #FFFFFF;
