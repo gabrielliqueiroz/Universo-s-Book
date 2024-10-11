@@ -1,8 +1,8 @@
-@import url ("./styles/header.css");
+@import url("styles/header.css");
 
 :root {
     --preto: #000000;
-    --font-size: 'Poppin', 'sans serif';
+    --fonte-principal: 'Poppin', 'sans serif';
     --branco: #FFFFFF;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --azul: #002F52;
@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: var(--preto);
-    color: var(--branco);
+    background-color: var(--branco);
+    color: var(--preto);
     font-size: var(--fonte-principal);
 }
